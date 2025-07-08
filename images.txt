@@ -14,4 +14,6 @@
 #haroldli/xiaoya-tvbox:latest
 #jacksaoding/xiaoya-sync:latest
 
-wofole/xiaoya-cleaner
+#wofole/xiaoya-cleaner
+
+akimio/autofilm
