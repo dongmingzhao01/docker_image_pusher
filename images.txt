@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #ddsderek/xiaoya-glue
-cloudnas/clouddrive2
+#cloudnas/clouddrive2
+windev/webdev:latest
