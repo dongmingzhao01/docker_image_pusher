@@ -10,6 +10,8 @@
 #windev/webdev
 #hou6807628/openwrt
 
-ddsderek/xiaoya-emd:latest
-haroldli/xiaoya-tvbox:latest
-jacksaoding/xiaoya-sync:latest
+#ddsderek/xiaoya-emd:latest
+#haroldli/xiaoya-tvbox:latest
+#jacksaoding/xiaoya-sync:latest
+
+wofole/xiaoya-cleaner
